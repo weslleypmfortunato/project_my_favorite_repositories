@@ -8,6 +8,7 @@ My Favorite GitHub Repos is an application for web developers to stay on top of 
 <h2>🛸 Used Technologies 🛠</h2>
 <ul>
   <li>ReactJS</li>
+  <li>Axios</li>
   <li>TailwindCSS</li>
   <li>GitHub API API</li>
 </ul>
