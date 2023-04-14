@@ -42,4 +42,4 @@ My Favorite GitHub Repos is an application for web developers to stay on top of 
 
 I am currently pursuing my dream of becoming a proficient web developer by attending college and learning everything from scratch. Being in Victoria, BC, allows me to explore my love for nature by hiking and discovering new places in my spare time.
 
-I am a firm believer in continuous improvement and pay close attention to every detail, no matter how small, to ensure the final product is of the highest quality. I am excited to see where my newfound skills and experiences will take me, and I am eager to make the most of every opportunity that comes my way..</p>
+I am a firm believer in continuous improvement and pay close attention to every detail, no matter how small, to ensure the final product is of the highest quality. I am excited to see where my newfound skills and experiences will take me, and I am eager to make the most of every opportunity that comes my way.</p>
